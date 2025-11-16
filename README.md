@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Nikolai Gavrikov  
+### Project Manager / Product Owner — Digital Products & Web Applications
 
-<!--
-**koliki/koliki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work with full product lifecycle:  
+requirements → planning → backlog → feature design → release management → UX review.
 
-Here are some ideas to get you started:
+🧩 My featured project: **Life XP — Gamified Productivity Planner**  
+- Web & PWA application  
+- XP, levels, streaks  
+- Kanban board  
+- Calendar view  
+- Reports  
+- Themes (Light / Dark / Neon / Solar / Forest)  
+- Offline mode via PWA  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 **Live Demo:**  
+https://koliki.github.io/Life-XP-Productivity-Planner/
+
+👉 **Full Portfolio (Notion):**  
+https://glistening-manta-b10.notion.site/portfolio
+
+👉 **Telegram:** @Kqli3  
+👉 **Email:** nikolai19.04@mail.ru
+
+---
+
+### 💼 My roles & skills:
+- Product Management  
+- Project Planning & Roadmaps  
+- Backlog Prioritization (MoSCoW, Value–Effort)  
+- UX analysis  
+- Acceptance Criteria & QA  
+- Communication with developers  
+- Release management  
+
+---
+
+### ⚙️Tools & Tech:
+- HTML / CSS / JS (understanding)  
+- GitHub / GitHub Pages  
+- Notion  
+- PWA  
+- Figma (basic)  
+- ClickUp / Trello / Jira  
