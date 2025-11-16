@@ -17,7 +17,7 @@ requirements → planning → backlog → feature design → release management 
 https://koliki.github.io/Life-XP-Productivity-Planner/
 
 👉 **Full Portfolio (Notion):**  
-https://glistening-manta-b10.notion.site/portfolio
+(https://glistening-manta-b10.notion.site/Portfolio-Project-Manager-2ad1437e178a80f9b1f1e3e9e0ddfbef?source=copy_link)
 
 👉 **Telegram:** @Kqli3  
 👉 **Email:** nikolai19.04@mail.ru
